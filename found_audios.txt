@@ -1,0 +1,118 @@
+Total candidates found: 117
+    2461 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\176415884112057.mp3
+    4210 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\1764159199426133.mp3
+    5631 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\1764158867377109.mp3
+    6206 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\1764159024409120.mp3
+    6495 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\1764158863341101.mp3
+    6495 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\1764158868890112.mp3
+    6495 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\1764158869899114.mp3
+    6533 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\1764159193926131.mp3
+    6884 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\1764159137339128.mp3
+    7540 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\1764158863843102.mp3
+    8359 bytes | D:/Materials\Patrick\芜湖.wav.mp3
+    8359 bytes | D:/Materials\Patrick\芜湖.wav.mp3
+    8426 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\176415886232399.mp3
+    8562 bytes | D:/Materials\Patrick\Myapp\lilywahoo.mp3
+    8562 bytes | D:/Materials\Patrick\Myapp\wuhu_candidates\4_lilypichu_wahoo.mp3
+    8562 bytes | D:/Materials\Patrick\Myapp\lilywahoo.mp3
+    8562 bytes | D:/Materials\Patrick\Myapp\wuhu_candidates\4_lilypichu_wahoo.mp3
+    8625 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\1764158873434117.mp3
+   11215 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\1764158873939118.mp3
+   11215 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\home_layer\17641588152586\res\native\ab\ab810c9e-aadf-41d6-b8a4-10cc63006c06.e73b8.mp3
+   11943 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\1764158864851104.mp3
+   12194 bytes | D:/Materials\Patrick\Myapp\wuhu_candidates\5_nina_wahoo.mp3
+   12194 bytes | D:/Materials\Patrick\Myapp\wuhu_candidates\5_nina_wahoo.mp3
+   22734 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\1764159259045135.mp3
+   23086 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\rollOverIcon.wav
+   24119 bytes | D:/Materials\Patrick\Myapp\wuhu_sample.mp3
+   24119 bytes | D:/Materials\Patrick\Myapp\wuhu_candidates\3_wuhu_original.mp3
+   24119 bytes | D:/Materials\Patrick\Myapp\wuhu_sample.mp3
+   24119 bytes | D:/Materials\Patrick\Myapp\wuhu_candidates\3_wuhu_original.mp3
+   35952 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\phone-2.wav
+   35952 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\phone-3.wav
+   36056 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\phone-6.wav
+   36156 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\phone-1.wav
+   36360 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\phone-7.wav
+   36360 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\phone-9.wav
+   36464 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\phone-5.wav
+   36464 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\phone-8.wav
+   36512 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\phone-4.wav
+   36544 bytes | D:/Materials\Patrick\Myapp\wuhu_candidates\1_wuhuu_high_pitched.mp3
+   36544 bytes | D:/Materials\Patrick\Myapp\wuhu_candidates\1_wuhuu_high_pitched.mp3
+   36820 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\phone-0.wav
+   37380 bytes | D:/Materials\Patrick\Myapp\wuhu_candidates\2_wuhuu_mubtong.mp3
+   37380 bytes | D:/Materials\Patrick\Myapp\wuhu_candidates\2_wuhuu_mubtong.mp3
+   42554 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\1764159347401141.mp3
+   46126 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\addPacketDevice.wav
+   46930 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\1764159345179137.mp3
+   59950 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\devicePlacement.wav
+   59950 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\removePacketButton.wav
+   70887 bytes | D:/Materials\Patrick\Myapp\wuhu_candidates\6_entre_wuhuu.mp3
+   70887 bytes | D:/Materials\Patrick\Myapp\wuhu_candidates\6_entre_wuhuu.mp3
+   76111 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\Applet\wxb26bc7ac85fce4ce\usr\gamecaches\config\176415883141235.mp3
+   78382 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\popUp.wav
+   87592 bytes | D:/Cisco Packet Tracer 8.2.0\saves\05 Programming\piano\c2.wav
+   87596 bytes | D:/Cisco Packet Tracer 8.2.0\saves\05 Programming\piano\c1.wav
+   87596 bytes | D:/Cisco Packet Tracer 8.2.0\saves\05 Programming\piano\e1.wav
+   88076 bytes | D:/Cisco Packet Tracer 8.2.0\saves\05 Programming\piano\d1.wav
+   88076 bytes | D:/Cisco Packet Tracer 8.2.0\saves\05 Programming\piano\f1.wav
+   88080 bytes | D:/Cisco Packet Tracer 8.2.0\saves\05 Programming\piano\g1.wav
+   88244 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\buzzHigh.wav
+   88244 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\buzzLow.wav
+   88244 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\buzzMedium.wav
+   88560 bytes | D:/Cisco Packet Tracer 8.2.0\saves\05 Programming\piano\a1.wav
+   88564 bytes | D:/Cisco Packet Tracer 8.2.0\saves\05 Programming\piano\b1.wav
+   92206 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\movieControlButton.wav
+   96814 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\removeDevice.wav
+  101422 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\connect2.wav
+  115246 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\removeLink.wav
+  138286 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\connect1.wav
+  147502 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\errorMsg.wav
+  155968 bytes | D:/Cisco Packet Tracer 8.2.0\saves\05 Programming\piano\g1s.wav
+  161326 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\newScenarioButton.wav
+  161929 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\FileStorage\File\2025-02\AUDIO-2025-02-03-11-56-32.m4a
+  169332 bytes | D:/Cisco Packet Tracer 8.2.0\saves\05 Programming\piano\d1s.wav
+  169332 bytes | D:/Cisco Packet Tracer 8.2.0\saves\05 Programming\piano\f1s.wav
+  180268 bytes | D:/Cisco Packet Tracer 8.2.0\saves\05 Programming\piano\c1s.wav
+  182316 bytes | D:/Cisco Packet Tracer 8.2.0\saves\05 Programming\piano\a1s.wav
+  188974 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\colorChangeButton.wav
+  188974 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\pullDown.wav
+  202798 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\deleteScenarioButton.wav
+  212014 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\packetCrash.wav
+  216622 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\packetMove.wav
+  239662 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\addPacketButton.wav
+  271918 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\topologyTab.wav
+  276526 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\devicePower.wav
+  308782 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\cancelButton.wav
+  322606 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\simulationTab.wav
+  326034 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\FileStorage\File\2025-05\..m4a
+  352570 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\busy.wav
+  413050 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\dialtone.wav
+  443578 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\ipPhoneringIn.wav
+  443578 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\ipPhoneringOut.wav
+  520192 bytes | D:/Materials\Patrick\小说\撒野\[S]-撒野 4季全\第四季\顾飞飞的吉他炫技.mp3
+  520192 bytes | D:/Materials\Patrick\小说\撒野\[S]-撒野 4季全\第四季\顾飞飞的吉他炫技.mp3
+  529258 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\do.wav
+  529258 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\re.wav
+  705658 bytes | D:/Cisco Packet Tracer 8.2.0\sounds\mi.wav
+  828733 bytes | D:/Materials\Patrick\小说\撒野\[S]-撒野 4季全\第三季\定档预告.mp3
+  828733 bytes | D:/Materials\Patrick\小说\撒野\[S]-撒野 4季全\第三季\定档预告.mp3
+ 1505108 bytes | D:/Materials\Patrick\amituofo\B.mp3
+ 1505108 bytes | D:/Materials\Patrick\amituofo\B.mp3
+ 1809584 bytes | D:/Materials\Patrick\cybersecurity assignment presentation video\audio12558226814.m4a
+ 1809584 bytes | D:/Materials\Patrick\cybersecurity assignment presentation video\audio12558226814.m4a
+ 1938749 bytes | D:/Materials\Patrick\小说\撒野\[S]-撒野 4季全\第三季\学渣的yellow笔记实践心得.MP3
+ 1938749 bytes | D:/Materials\Patrick\小说\撒野\[S]-撒野 4季全\第三季\学渣的yellow笔记实践心得.MP3
+ 2801664 bytes | D:/Materials\Patrick\小说\撒野\[S]-撒野 4季全\第四季\和好的第一天 守护丞哥的胖次.mp3
+ 2801664 bytes | D:/Materials\Patrick\小说\撒野\[S]-撒野 4季全\第四季\和好的第一天 守护丞哥的胖次.mp3
+ 3104768 bytes | D:/Materials\Patrick\小说\撒野\[S]-撒野 4季全\第四季\小剧场·猫丞兔飞兔飞猫丞.mp3
+ 3104768 bytes | D:/Materials\Patrick\小说\撒野\[S]-撒野 4季全\第四季\小剧场·猫丞兔飞兔飞猫丞.mp3
+ 3118397 bytes | D:/Materials\Patrick\小说\撒野\[S]-撒野 4季全\第三季\正剧预告.mp3
+ 3118397 bytes | D:/Materials\Patrick\小说\撒野\[S]-撒野 4季全\第三季\正剧预告.mp3
+ 3509740 bytes | D:/Materials\Patrick\amituofo\龍普托龙婆托LP Thuad Kathaหลวงปทวด.mp3
+ 3509740 bytes | D:/Materials\Patrick\amituofo\龍普托龙婆托LP Thuad Kathaหลวงปทวด.mp3
+ 4169728 bytes | D:/Materials\Patrick\小说\撒野\[S]-撒野 4季全\第四季\分手第三周 要忍住.mp3
+ 4169728 bytes | D:/Materials\Patrick\小说\撒野\[S]-撒野 4季全\第四季\分手第三周 要忍住.mp3
+ 4194169 bytes | C:/Users/PatrickToh/Documents\WeChat Files\wxid_icb0iepsvmry22\FileStorage\File\2025-04\4月6日 19点20分.aac
+ 4871485 bytes | D:/Materials\Patrick\小说\撒野\[S]-撒野 4季全\第三季\钢琴版本主题曲.mp3
+ 4871485 bytes | D:/Materials\Patrick\小说\撒野\[S]-撒野 4季全\第三季\钢琴版本主题曲.mp3
